@@ -29,5 +29,3 @@ O projeto implementa regras de segurança para proteger os endpoints da loja:
 ### Pré-requisitos
 * Ter o **Java JDK 21** instalado.
 * Ter o **Maven** configurado (ou usar a IDE IntelliJ IDEA / Eclipse).
-
-### Passo a passo
