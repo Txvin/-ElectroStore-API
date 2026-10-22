@@ -1,4 +1,4 @@
-# 🛒 TechStore API - Loja de Eletrônicos
+# 🛒 ElectroStore API - Loja de Eletrônicos
 
 API backend desenvolvida em **Java** com **Spring Boot** para gerenciar uma loja de eletrônicos, focando em segurança de rotas, controle de acesso e operações de e-commerce.
 
