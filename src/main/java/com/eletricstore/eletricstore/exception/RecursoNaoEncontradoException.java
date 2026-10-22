@@ -1,0 +1,8 @@
+package com.eletricstore.eletricstore.exception;
+
+public class RecursoNaoEncontradoException extends RuntimeException {
+
+    public RecursoNaoEncontradoException(String message) {
+        super(message);
+    }
+}
